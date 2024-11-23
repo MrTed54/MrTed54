@@ -41,13 +41,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian" />
+    <img src="https://skillicons.dev/icons?i=debian,windows" />
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=angular,laravel,react" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash" />
@@ -58,10 +58,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react" />
-  </a>
-  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql, mongodb, postgres" />
   </a>
