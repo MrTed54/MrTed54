@@ -20,7 +20,7 @@
   
 </div>
 
-<h3 align="center">Lenguajes que manejo y Herramientas.</h3>
+<h3 align="center">Lenguajes que manejo y Herramientas y software</h3>
 
 <p align="center"> 
   <a href="https://skillicons.dev">
