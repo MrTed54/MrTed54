@@ -1,17 +1,18 @@
-<h1 align="center">Hola 👋, soy Fabian Landero 👨‍💻 </h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Veracruz</h3>
+<h1 align="center">Hola  👋, soy Fabian Landero 👨‍💻 </h1>
+<h3 align="center">Un apacionado desarrollador de  Front-End y Back-End, y aprendis de python </h3>
+<h3 align="center">Vivo en Mexico, Veracruz</h3>
 
-- 🔭 I’m currently working on my **personal portfolio**
+- 🔭 Actualmente estoy trabajando en mi **portafolio perconal**.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Estoy aprendiendo **Python**, **Django**, **React**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯Estoy buscando colaborar en **proyectos front-end y back-end**
+  
+- 📫 Como contactarme **f54landero@gmail.com**
 
-- 📫 How to reach me: **f54landero@gmail.com**
+- ⚡ Lo que me gusta hacer: **Me gusta mucho leer, el baloncesto... y, por supuesto, programar**
 
-- ⚡ What I like to do: **I like so much reading, basketball ...and coding of course**
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contacte conmigo  </h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-pedo-landero-martinez-847041188/).
