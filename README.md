@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **personal portfolio**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
