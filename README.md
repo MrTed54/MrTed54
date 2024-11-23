@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Fabian Landero <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola 👋, soy Fabian Landero 👨‍💻 </h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Veracruz</h3>
 
 - 🔭 I’m currently working on my **personal portfolio**
